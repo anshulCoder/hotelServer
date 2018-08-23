@@ -1,0 +1,26 @@
+{
+  "name": "hotel_booking_server",
+  "version": "1.0.0",
+  "description": "Hotel Booking Server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulCoder/hotelServer.git"
+  },
+  "author": "Anshul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshulCoder/hotelServer/issues"
+  },
+  "homepage": "https://github.com/anshulCoder/hotelServer#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0"
+  }
+}
